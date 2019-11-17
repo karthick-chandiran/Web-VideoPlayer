@@ -1,0 +1,32 @@
+.movie-icon{
+    height: 150px;
+    width: 150px;
+}
+
+.video_list {
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.video-title {
+    width:150px;
+    overflow-wrap: break-word;
+    font-size: 13px;
+}
+
+.video {
+    margin:10px;
+}
+.video_player {
+    text-align:center;
+    margin:20px 0px;
+}
+.video_player video {
+    border-radius: 5px;
+}
+
+.left-arrow {
+    width:20px;
+    display: inline-block;
+}
+/* VES0586442Senthil#234561985020192019 */

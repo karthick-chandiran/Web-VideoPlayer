@@ -1,0 +1,16 @@
+{
+  "name": "videoplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --experimental-modules server.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "load-svg-file": "^1.0.8",
+    "nodemon": "^1.19.1"
+  }
+}
